@@ -1,1 +1,1 @@
-# simplehotelwebsite
+# Simple Hotel Website
